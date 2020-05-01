@@ -1,3 +1,3 @@
-Version:0.141241424124141241241244 beta
+Version:0.141241424124141241241244
 Snapshot:0
 ReleaseNote:First Update Checker version!
