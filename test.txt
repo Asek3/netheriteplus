@@ -1,3 +1,0 @@
-Version:0.3123213
-Snapshot:0
-ReleaseNote:First Update Checker version!
