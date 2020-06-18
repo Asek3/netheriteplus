@@ -1,3 +1,3 @@
-Version:0.8 Beta
+Version:0.9 Beta
 Snapshot:0
 ReleaseNote:Visit CurseForge to see ChangeLog!
